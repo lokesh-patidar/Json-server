@@ -1,139 +1,146 @@
 {
-  "books": [
+  "blogs": [
     {
-      "id":1,
-      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "book_name": "Harry Potter and the Philosopher's Stone",
-      "author": "J. K. Rowling",
-      "genre": "Science",
-      "edition": 2021,
-      "publisher": "Bloomsbury",
-      "cost": 1299,
-      "borrowed": false
+      "id": 1,
+      "username": "coreyschafer",
+      "title": "Be Present",
+      "content": "Turning away from the ledge, he started slowly down the mountain, deciding that he would, that very night, satisfy his curiosity about the man-house. In the meantime, he would go down into the canyon and get a cool drink, after which he would visit some berry patches just over the ridge, and explore among the foothills a bit before his nap-time, which always came just after the sun had walked past the middle of the sky. At that period of the day the sun’s warm rays seemed to cast a sleepy spell over the silent mountainside, so all of the animals, with one accord, had decided it should be the hour for their mid-day sleep.",
+      "category": "Entertainment",
+      "date": "2017-06-08",
+      "likes": 24,
+      "comments": [
+        {
+          "username": "Jane",
+          "content": "Good One"
+        },
+        {
+          "username": "Bob",
+          "content": "Loved It!"
+        }
+      ]
     },
     {
-      "id":2,
-      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "book_name": "Harry Potter and the Philosopher's Stone",
-      "author": "J. K. Rowling",
-      "genre": "Fiction",
-      "edition": 2021,
-      "publisher": "Bloomsbury",
-      "cost": 1299,
-      "borrowed": false
+      "id": 2,
+      "username": "lokesh",
+      "title": "Be future",
+      "content": "Turning away from the ledge, he started slowly down the mountain, deciding that he would, that very night, satisfy his curiosity about the man-house. In the meantime, he would go down into the canyon and get a cool drink, after which he would visit some berry patches just over the ridge, and explore among the foothills a bit before his nap-time, which always came just after the sun had walked past the middle of the sky. At that period of the day the sun’s warm rays seemed to cast a sleepy spell over the silent mountainside, so all of the animals, with one accord, had decided it should be the hour for their mid-day sleep.",
+      "category": "Lifestyle",
+      "date": "2017-06-07",
+      "likes": 10,
+      "comments": [
+        {
+          "username": "Jane",
+          "content": "Good One"
+        },
+        {
+          "username": "Bob",
+          "content": "Loved It!"
+        }
+      ]
     },
     {
-      "id":3,
-      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "book_name": "Harry Potter and the Philosopher's Stone",
-      "author": "J. K. Rowling",
-      "genre": "- History",
-      "edition": "2021",
-      "publisher": "Bloomsbury",
-      "cost": 1299,
-      "borrowed": false
+      "id": 3,
+      "username": "Tushar",
+      "title": "Akarsh",
+      "content": "Turning away from the ledge, he started slowly down the mountain, deciding that he would, that very night, satisfy his curiosity about the man-house. In the meantime, he would go down into the canyon and get a cool drink, after which he would visit some berry patches just over the ridge, and explore among the foothills a bit before his nap-time, which always came just after the sun had walked past the middle of the sky. At that period of the day the sun’s warm rays seemed to cast a sleepy spell over the silent mountainside, so all of the animals, with one accord, had decided it should be the hour for their mid-day sleep.",
+      "category": "Business",
+      "date": "2017-06-06",
+      "likes": 21,
+      "comments": [
+        {
+          "username": "Jane",
+          "content": "Good One"
+        },
+        {
+          "username": "Bob",
+          "content": "Loved It!"
+        }
+      ]
     },
     {
-      "id":4,
-      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "book_name": "Harry Potter and the Philosopher's Stone",
-      "author": "J. K. Rowling",
-      "genre": "Fiction",
-      "edition": 2020,
-      "publisher": "Ram",
-      "cost": 1299,
-      "borrowed": false
+      "id": 4,
+      "username": "Deepak",
+      "title": "Be possitive",
+      "content": "Turning away from the ledge, he started slowly down the mountain, deciding that he would, that very night, satisfy his curiosity about the man-house. In the meantime, he would go down into the canyon and get a cool drink, after which he would visit some berry patches just over the ridge, and explore among the foothills a bit before his nap-time, which always came just after the sun had walked past the middle of the sky. At that period of the day the sun’s warm rays seemed to cast a sleepy spell over the silent mountainside, so all of the animals, with one accord, had decided it should be the hour for their mid-day sleep.",
+      "category": "Tech",
+      "date": "2017-06-05",
+      "likes": 22,
+      "comments": [
+        {
+          "username": "Jane",
+          "content": "Good One"
+        },
+        {
+          "username": "Bob",
+          "content": "Loved It!"
+        }
+      ]
     },
     {
-      "id":5,
-      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "book_name": "Harry Potter and the Philosopher's Stone",
-      "author": "J. K. Rowling",
-      "genre": "Tech",
-      "edition": 2021,
-      "publisher": "Bloomsbury",
-      "cost": 1256,
-      "borrowed": false
+      "id": 5,
+      "username": "Ajay",
+      "title": "Be Active",
+      "content": "Turning away from the ledge, he started slowly down the mountain, deciding that he would, that very night, satisfy his curiosity about the man-house. In the meantime, he would go down into the canyon and get a cool drink, after which he would visit some berry patches just over the ridge, and explore among the foothills a bit before his nap-time, which always came just after the sun had walked past the middle of the sky. At that period of the day the sun’s warm rays seemed to cast a sleepy spell over the silent mountainside, so all of the animals, with one accord, had decided it should be the hour for their mid-day sleep.",
+      "category": "Entertainment",
+      "date": "2017-06-04",
+      "likes": 30,
+      "comments": [
+        {
+          "username": "Jane",
+          "content": "Good One"
+        },
+        {
+          "username": "Bob",
+          "content": "Loved It!"
+        }
+      ]
     },
     {
-      "id":6,
-      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "book_name": "Harry Potter and the Philosopher's Stone",
-      "author": "J. K. Rowling",
-      "genre": "Fiction",
-      "edition": 1221,
-      "publisher": "Ali",
-      "cost": 1999,
-      "borrowed": false
+      "id": 6,
+      "username": "coreyschafer",
+      "title": "Be Present",
+      "content": "Turning away from the ledge, he started slowly down the mountain, deciding that he would, that very night, satisfy his curiosity about the man-house. In the meantime, he would go down into the canyon and get a cool drink, after which he would visit some berry patches just over the ridge, and explore among the foothills a bit before his nap-time, which always came just after the sun had walked past the middle of the sky. At that period of the day the sun’s warm rays seemed to cast a sleepy spell over the silent mountainside, so all of the animals, with one accord, had decided it should be the hour for their mid-day sleep.",
+      "category": "Lifestyle",
+      "date": "2017-06-03",
+      "likes": 18,
+      "comments": [
+        {
+          "username": "Jane",
+          "content": "Good One"
+        },
+        {
+          "username": "Bob",
+          "content": "Loved It!"
+        }
+      ]
     },
     {
-      "id":7,
-      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "book_name": "Harry Potter and the Philosopher's Stone",
-      "author": "J. K. Rowling",
-      "genre": "Business",
-      "edition": "2021",
-      "publisher": "Bloomsbury",
-      "cost": 1299,
-      "borrowed": false
-    },
-    {
-      "id":8,
-      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "book_name": "Harry Potter and the Philosopher's Stone",
-      "author": "J. K. Rowling",
-      "genre": "Business",
-      "edition": "2001",
-      "publisher": "Ashish",
-      "cost": 1209,
-      "borrowed": false
-    },
-    {
-      "id":9,
-      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "book_name": "Harry Potter and the Philosopher's Stone",
-      "author": "J. K. Rowling",
-      "genre": "Business",
-      "edition": 2017,
-      "publisher": "Shyam",
-      "cost": 1109,
-      "borrowed": false
-    },
-    {
-      "id":10,
-      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "book_name": "Harry Potter and the Philosopher's Stone",
-      "author": "J. K. Rowling",
-      "genre": "Tech",
-      "edition": 2011,
-      "publisher": "Ram",
-      "cost": 1299,
-      "borrowed": false
-    },
-    {
-      "id":11,
-      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "book_name": "Harry Potter and the Philosopher's Stone",
-      "author": "J. K. Rowling",
-      "genre": "Science",
-      "edition": 2020,
-      "publisher": "Alex",
-      "cost": 1299,
-      "borrowed": false
-    },
-    {
-      "id": 12,
-      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "book_name": "Harry Potter and the Philosopher's Stone",
-      "author": "J. K. Rowling",
-      "genre": "fiction",
-      "edition": 2021,
-      "publisher": "Pulkit",
-      "cost": 1249,
-      "borrowed": false
+      "id": 7,
+      "username": "Rahul",
+      "title": "Be Absent",
+      "content": "Turning away from the ledge, he started slowly down the mountain, deciding that he would, that very night, satisfy his curiosity about the man-house. In the meantime, he would go down into the canyon and get a cool drink, after which he would visit some berry patches just over the ridge, and explore among the foothills a bit before his nap-time, which always came just after the sun had walked past the middle of the sky. At that period of the day the sun’s warm rays seemed to cast a sleepy spell over the silent mountainside, so all of the animals, with one accord, had decided it should be the hour for their mid-day sleep.",
+      "category": "Entertainment",
+      "date": "2017-06-02",
+      "likes": 2,
+      "comments": [
+        {
+          "username": "Jane",
+          "content": "Good One"
+        },
+        {
+          "username": "Bob",
+          "content": "Loved It!"
+        }
+      ]
     }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+  "users": [
+    {
+      "id": 1,
+      "Username": "lokesh",
+      "Avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4j5EsloB48DnxRWOYQKJxT01dGj6cVFEDPQ&usqp=CAU",
+      "Email": "lokesh@gmail.com",
+      "Password": "lokesh123"
+    }
   ]
 }
