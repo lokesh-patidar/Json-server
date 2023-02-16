@@ -75,63 +75,6 @@
           "content": "Loved It!"
         }
       ]
-    },
-    {
-      "id": 5,
-      "username": "Ajay",
-      "title": "Be Active",
-      "content": "Turning away from the ledge, he started slowly down the mountain, deciding that he would, that very night, satisfy his curiosity about the man-house. In the meantime, he would go down into the canyon and get a cool drink, after which he would visit some berry patches just over the ridge, and explore among the foothills a bit before his nap-time, which always came just after the sun had walked past the middle of the sky. At that period of the day the sun’s warm rays seemed to cast a sleepy spell over the silent mountainside, so all of the animals, with one accord, had decided it should be the hour for their mid-day sleep.",
-      "category": "Entertainment",
-      "date": "2017-06-04",
-      "likes": 30,
-      "comments": [
-        {
-          "username": "Jane",
-          "content": "Good One"
-        },
-        {
-          "username": "Bob",
-          "content": "Loved It!"
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "username": "coreyschafer",
-      "title": "Be Present",
-      "content": "Turning away from the ledge, he started slowly down the mountain, deciding that he would, that very night, satisfy his curiosity about the man-house. In the meantime, he would go down into the canyon and get a cool drink, after which he would visit some berry patches just over the ridge, and explore among the foothills a bit before his nap-time, which always came just after the sun had walked past the middle of the sky. At that period of the day the sun’s warm rays seemed to cast a sleepy spell over the silent mountainside, so all of the animals, with one accord, had decided it should be the hour for their mid-day sleep.",
-      "category": "Lifestyle",
-      "date": "2017-06-03",
-      "likes": 18,
-      "comments": [
-        {
-          "username": "Jane",
-          "content": "Good One"
-        },
-        {
-          "username": "Bob",
-          "content": "Loved It!"
-        }
-      ]
-    },
-    {
-      "id": 7,
-      "username": "Rahul",
-      "title": "Be Absent",
-      "content": "Turning away from the ledge, he started slowly down the mountain, deciding that he would, that very night, satisfy his curiosity about the man-house. In the meantime, he would go down into the canyon and get a cool drink, after which he would visit some berry patches just over the ridge, and explore among the foothills a bit before his nap-time, which always came just after the sun had walked past the middle of the sky. At that period of the day the sun’s warm rays seemed to cast a sleepy spell over the silent mountainside, so all of the animals, with one accord, had decided it should be the hour for their mid-day sleep.",
-      "category": "Entertainment",
-      "date": "2017-06-02",
-      "likes": 2,
-      "comments": [
-        {
-          "username": "Jane",
-          "content": "Good One"
-        },
-        {
-          "username": "Bob",
-          "content": "Loved It!"
-        }
-      ]
     }
   ],
   "users": [
@@ -213,6 +156,68 @@
 		"total_shares": 30000,
 		"cost_per_share": 2130,
 		"price_action": 6
+  }
+],
+"portfolio": [
+  {
+		"id" : 1,
+    "company_logo": "https://www.jetspot.in/wp-content/uploads/2018/03/reliance-logo.jpg",
+    "company_name": "Jio Industries",
+    "company_type": "Oil",
+		"stock_exchange": "BSE",
+		"total_shares": 30000,
+		"cost_per_share": 2130,
+		"price_action": 1
+  },
+  {
+		"id" : 2,
+    "company_logo": "https://www.jetspot.in/wp-content/uploads/2018/03/reliance-logo.jpg",
+    "company_name": "Reliance Industries",
+    "company_type": "Oil",
+		"stock_exchange": "BSE",
+		"total_shares": 28000,
+		"cost_per_share": 2139,
+		"price_action": 10
+  },
+  {
+		"id" : 3,
+    "company_logo": "https://www.jetspot.in/wp-content/uploads/2018/03/reliance-logo.jpg",
+    "company_name": "Tata Industries",
+    "company_type": "Oil",
+		"stock_exchange": "BSE",
+		"total_shares": 22000,
+		"cost_per_share": 2130,
+		"price_action": 2
+  },
+  {
+		"id" : 4,
+    "company_logo": "https://www.jetspot.in/wp-content/uploads/2018/03/reliance-logo.jpg",
+    "company_name": "Neodov Industries",
+    "company_type": "Oil",
+		"stock_exchange": "BSE",
+		"total_shares": 21000,
+		"cost_per_share": 2134,
+		"price_action": 3
+  },
+  {
+		"id" : 4,
+    "company_logo": "https://www.jetspot.in/wp-content/uploads/2018/03/reliance-logo.jpg",
+    "company_name": "Masai Industries",
+    "company_type": "Oil",
+		"stock_exchange": "BSE",
+		"total_shares": 25000,
+		"cost_per_share": 2134,
+		"price_action": 4
+  },
+  {
+		"id" : 5,
+    "company_logo": "https://www.jetspot.in/wp-content/uploads/2018/03/reliance-logo.jpg",
+    "company_name": "Reliance Industries",
+    "company_type": "Oil",
+		"stock_exchange": "BSE",
+		"total_shares": 20000,
+		"cost_per_share": 2132,
+		"price_action": 5
   }
 ]
 }
