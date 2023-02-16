@@ -128,7 +128,7 @@
 		"price_action": 3
   },
   {
-		"id" : 4,
+		"id" : 5,
     "company_logo": "https://www.jetspot.in/wp-content/uploads/2018/03/reliance-logo.jpg",
     "company_name": "Masai Industries",
     "company_type": "Oil",
@@ -200,7 +200,7 @@
 		"price_action": 3
   },
   {
-		"id" : 4,
+		"id" : 5,
     "company_logo": "https://www.jetspot.in/wp-content/uploads/2018/03/reliance-logo.jpg",
     "company_name": "Masai Industries",
     "company_type": "Oil",
@@ -210,7 +210,7 @@
 		"price_action": 4
   },
   {
-		"id" : 5,
+		"id" : 6 ,
     "company_logo": "https://www.jetspot.in/wp-content/uploads/2018/03/reliance-logo.jpg",
     "company_name": "Reliance Industries",
     "company_type": "Oil",
