@@ -239,6 +239,7 @@
 ],
 "jobs":[
 	{
+    "id": 1,
 		"company": "Ellette",
 		"postedAt": "2021-03-30",
 		"city": "Gangtok",
@@ -250,6 +251,7 @@
 		"language": "Java"
 	},
 	{
+    "id": 2,
 		"company": "Jinny",
 		"postedAt": "2021-09-09",
 		"city": "Ludhiana",
@@ -261,6 +263,7 @@
 		"language": "Java"
 	},
 	{
+    "id": 3,
 		"company": "Big-Basket",
 		"postedAt": "2021-09-09",
 		"city": "Ludhiana",
@@ -272,6 +275,7 @@
 		"language": "JavaScript"
 	},
 	{
+    "id": 4,
 		"company": "Myntra",
 		"postedAt": "2021-09-09",
 		"city": "Banglore",
@@ -283,6 +287,7 @@
 		"language": "JavaScript"
 	},
 	{
+    "id": 5,
 		"company": "Zara",
 		"postedAt": "2021-09-09",
 		"city": "Banglore",
@@ -292,6 +297,78 @@
 		"contract": "Part Time",
 		"position": "Backend Developer",
 		"language": "Node.js"
+	},
+	{
+    "id": 6,
+		"company": "Logistic",
+		"postedAt": "2021-09-09",
+		"city": "Delhi",
+		"location": "xyz",
+		"role": "MernStack",
+		"level": "Junior",
+		"contract": "Full Time",
+		"position": "Junior Frontend Developer",
+		"language": "Express.js"
+	},
+	{
+    "id": 7,
+		"company": "Paytm",
+		"postedAt": "2021-09-09",
+		"city": "Gurgaon",
+		"location": "xyz",
+		"role": "MernStack",
+		"level": "Junior",
+		"contract": "Full Time",
+		"position": "Junior Frontend Developer",
+		"language": "JavaScript"
+	},
+	{
+    "id": 8,
+		"company": "Grocerymart",
+		"postedAt": "2021-09-09",
+		"city": "Ujjain",
+		"location": "xyz",
+		"role": "MernStack",
+		"level": "Junior",
+		"contract": "Full Time",
+		"position": "Junior Frontend Developer",
+		"language": "React"
+	},
+	{
+    "id": 9,
+		"company": "Bigbazar",
+		"postedAt": "2021-09-09",
+		"city": "Ujjain",
+		"location": "xyz",
+		"role": "MernStack",
+		"level": "Junior",
+		"contract": "Full Time",
+		"position": "Junior Frontend Developer",
+		"language": "React"
+	},
+	{
+    "id": 10,
+		"company": "Time scheme",
+		"postedAt": "2021-09-09",
+		"city": "Ujjain",
+		"location": "xyz",
+		"role": "MernStack",
+		"level": "Junior",
+		"contract": "Full Time",
+		"position": "Junior Frontend Developer",
+		"language": "React"
+	},
+	{
+    "id": 11,
+		"company": "Webtaskit",
+		"postedAt": "2021-09-09",
+		"city": "Indore",
+		"location": "xyz",
+		"role": "MernStack",
+		"level": "Junior",
+		"contract": "Full Time",
+		"position": "Junior Frontend Developer",
+		"language": "React"
 	}
 ]
 }
