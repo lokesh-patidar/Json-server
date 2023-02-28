@@ -259,6 +259,39 @@
 		"contract": "Full Time",
 		"position": "Junior Frontend Developer",
 		"language": "Java"
+	},
+	{
+		"company": "Big-Basket",
+		"postedAt": "2021-09-09",
+		"city": "Ludhiana",
+		"location": "Belgium",
+		"role": "FullStack",
+		"level": "Senior",
+		"contract": "Part Time",
+		"position": "Senior Frontend Developer",
+		"language": "JavaScript"
+	},
+	{
+		"company": "Myntra",
+		"postedAt": "2021-09-09",
+		"city": "Banglore",
+		"location": "xyz",
+		"role": "FullStack",
+		"level": "Senior",
+		"contract": "Part Time",
+		"position": "Senior Frontend Developer",
+		"language": "JavaScript"
+	},
+	{
+		"company": "Zara",
+		"postedAt": "2021-09-09",
+		"city": "Banglore",
+		"location": "xyz",
+		"role": "FullStack",
+		"level": "Senior",
+		"contract": "Part Time",
+		"position": "Backend Developer",
+		"language": "Node.js"
 	}
 ]
 }
