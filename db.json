@@ -1013,50 +1013,68 @@
     {
       "id": 1,
       "page": "Home",
-      "design": {"1": "None", "2": "Basic", "3":"Advanced", "4":"Complex"},
-      "interactions": {"1": "None", "2": "Basic", "3":"Advanced", "4":"Complex"},
-      "integration": {"1": "None", "2": "Basic", "3":"Advanced", "4":"Complex"},
-      "price": 100
+      "design": ["None", "Basic", "Advanced", "Complex"],
+      "interactions": ["None", "Basic", "Advanced", "Complex"],
+      "integration": ["None", "Basic", "Advanced", "Complex"],
+      "price": 100,
+      "designCount": 1,
+      "interactionsCount":2,
+      "integrationCount":0
     },
     {
       "id": 2,
       "page": "Service",
-      "design": {"1": "None", "2": "Basic", "3":"Advanced", "4":"Complex"},
-      "interactions": {"1": "None", "2": "Basic", "3":"Advanced", "4":"Complex"},
-      "integration": {"1": "None", "2": "Basic", "3":"Advanced", "4":"Complex"},
-      "price": 100
+      "design": ["None", "Basic", "Advanced", "Complex"],
+      "interactions": ["None", "Basic", "Advanced", "Complex"],
+      "integration": ["None", "Basic", "Advanced", "Complex"],
+      "price": 100,
+      "designCount": 3,
+      "interactionsCount":1,
+      "integrationCount":0
     },
     {
       "id": 3,
       "page": "About Us",
-      "design": {"1": "None", "2": "Basic", "3":"Advanced", "4":"Complex"},
-      "interactions": {"1": "None", "2": "Basic", "3":"Advanced", "4":"Complex"},
-      "integration": {"1": "None", "2": "Basic", "3":"Advanced", "4":"Complex"},
-      "price": 100
+      "design": ["None", "Basic", "Advanced", "Complex"],
+      "interactions": ["None", "Basic", "Advanced", "Complex"],
+      "integration": ["None", "Basic", "Advanced", "Complex"],
+      "price": 100,
+      "designCount": 2,
+      "interactionsCount":1,
+      "integrationCount":3
     },
     {
       "id": 4,
       "page": "Partners",
-      "design": {"1": "None", "2": "Basic", "3":"Advanced", "4":"Complex"},
-      "interactions": {"1": "None", "2": "Basic", "3":"Advanced", "4":"Complex"},
-      "integration": {"1": "None", "2": "Basic", "3":"Advanced", "4":"Complex"},
-      "price": 100
+      "design": ["None", "Basic", "Advanced", "Complex"],
+      "interactions": ["None", "Basic", "Advanced", "Complex"],
+      "integration": ["None", "Basic", "Advanced", "Complex"],
+      "price": 100,
+      "designCount": 1,
+      "interactionsCount":2,
+      "integrationCount":0
     },
     {
       "id": 5,
       "page": "Conatct Us",
-      "design": {"1": "None", "2": "Basic", "3":"Advanced", "4":"Complex"},
-      "interactions": {"1": "None", "2": "Basic", "3":"Advanced", "4":"Complex"},
-      "integration": {"1": "None", "2": "Basic", "3":"Advanced", "4":"Complex"},
-      "price": 100
+      "design": ["None", "Basic", "Advanced", "Complex"],
+      "interactions": ["None", "Basic", "Advanced", "Complex"],
+      "integration": ["None", "Basic", "Advanced", "Complex"],
+      "price": 100,
+      "designCount": 1,
+      "interactionsCount":3,
+      "integrationCount":2
     },
     {
       "id": 6,
       "page": "Marketing",
-      "design": {"1": "None", "2": "Basic", "3":"Advanced", "4":"Complex"},
-      "interactions": {"1": "None", "2": "Basic", "3":"Advanced", "4":"Complex"},
-      "integration": {"1": "None", "2": "Basic", "3":"Advanced", "4":"Complex"},
-      "price": 100
+      "design": ["None", "Basic", "Advanced", "Complex"],
+      "interactions": ["None", "Basic", "Advanced", "Complex"],
+      "integration": ["None", "Basic", "Advanced", "Complex"],
+      "price": 100,
+      "designCount": 3,
+      "interactionsCount":0,
+      "integrationCount":1
     }
   ]
 }
