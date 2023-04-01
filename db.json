@@ -1016,7 +1016,7 @@
       "design": ["None", "Basic", "Advanced", "Complex"],
       "interactions": ["None", "Basic", "Advanced", "Complex"],
       "integration": ["None", "Basic", "Advanced", "Complex"],
-      "price": 100,
+      "price": [100,150, 200,300],
       "designCount": 1,
       "interactionsCount":2,
       "integrationCount":0
@@ -1027,7 +1027,7 @@
       "design": ["None", "Basic", "Advanced", "Complex"],
       "interactions": ["None", "Basic", "Advanced", "Complex"],
       "integration": ["None", "Basic", "Advanced", "Complex"],
-      "price": 100,
+      "price": [100,150, 200,300],
       "designCount": 3,
       "interactionsCount":1,
       "integrationCount":0
@@ -1038,7 +1038,7 @@
       "design": ["None", "Basic", "Advanced", "Complex"],
       "interactions": ["None", "Basic", "Advanced", "Complex"],
       "integration": ["None", "Basic", "Advanced", "Complex"],
-      "price": 100,
+      "price": [100,150, 200,300],
       "designCount": 2,
       "interactionsCount":1,
       "integrationCount":3
@@ -1049,7 +1049,7 @@
       "design": ["None", "Basic", "Advanced", "Complex"],
       "interactions": ["None", "Basic", "Advanced", "Complex"],
       "integration": ["None", "Basic", "Advanced", "Complex"],
-      "price": 100,
+      "price": [100,150, 200,300],
       "designCount": 1,
       "interactionsCount":2,
       "integrationCount":0
@@ -1060,7 +1060,7 @@
       "design": ["None", "Basic", "Advanced", "Complex"],
       "interactions": ["None", "Basic", "Advanced", "Complex"],
       "integration": ["None", "Basic", "Advanced", "Complex"],
-      "price": 100,
+      "price": [100,150, 200,300],
       "designCount": 1,
       "interactionsCount":3,
       "integrationCount":2
@@ -1071,7 +1071,7 @@
       "design": ["None", "Basic", "Advanced", "Complex"],
       "interactions": ["None", "Basic", "Advanced", "Complex"],
       "integration": ["None", "Basic", "Advanced", "Complex"],
-      "price": 100,
+      "price": [100,150, 200,300],
       "designCount": 3,
       "interactionsCount":0,
       "integrationCount":1
