@@ -1012,5 +1012,139 @@
         }
       ]
     }
+  ],
+  "Calculator": [
+    {
+      "page": "Home",
+      "design": [
+        "None",
+        "Basic",
+        "Advanced",
+        "Complex"
+      ],
+      "interactions_&_animations": [
+        "None",
+        "Basic",
+        "Advanced",
+        "Complex"
+      ],
+      "integration": [
+        "None",
+        "Basic",
+        "Advanced",
+        "Complex"
+      ],
+      "price": 100
+    },
+    {
+      "page": "Home",
+      "design": [
+        "None",
+        "Basic",
+        "Advanced",
+        "Complex"
+      ],
+      "interactions_&_animations": [
+        "None",
+        "Basic",
+        "Advanced",
+        "Complex"
+      ],
+      "integration": [
+        "None",
+        "Basic",
+        "Advanced",
+        "Complex"
+      ],
+      "price": 100
+    },
+    {
+      "page": "Home",
+      "design": [
+        "None",
+        "Basic",
+        "Advanced",
+        "Complex"
+      ],
+      "interactions_&_animations": [
+        "None",
+        "Basic",
+        "Advanced",
+        "Complex"
+      ],
+      "integration": [
+        "None",
+        "Basic",
+        "Advanced",
+        "Complex"
+      ],
+      "price": 100
+    },
+    {
+      "page": "Home",
+      "design": [
+        "None",
+        "Basic",
+        "Advanced",
+        "Complex"
+      ],
+      "interactions_&_animations": [
+        "None",
+        "Basic",
+        "Advanced",
+        "Complex"
+      ],
+      "integration": [
+        "None",
+        "Basic",
+        "Advanced",
+        "Complex"
+      ],
+      "price": 100
+    },
+    {
+      "page": "Home",
+      "design": [
+        "None",
+        "Basic",
+        "Advanced",
+        "Complex"
+      ],
+      "interactions_&_animations": [
+        "None",
+        "Basic",
+        "Advanced",
+        "Complex"
+      ],
+      "integration": [
+        "None",
+        "Basic",
+        "Advanced",
+        "Complex"
+      ],
+      "price": 100
+    },
+    {
+      "page": "Home",
+      "design": [
+        "None",
+        "Basic",
+        "Advanced",
+        "Complex"
+      ],
+      "interactions_&_animations": [
+        "None",
+        "Basic",
+        "Advanced",
+        "Complex"
+      ],
+      "integration": [
+        "None",
+        "Basic",
+        "Advanced",
+        "Complex"
+      ],
+      "price": 100
+    }
   ]
 }
